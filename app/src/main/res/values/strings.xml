@@ -1,0 +1,30 @@
+<resources>
+    <string name="title_home">个人</string>
+    <string name="title_dashboard">拨号</string>
+    <string name="title_notifications">提醒</string>
+
+    <string name="app_name">顺心宝2</string>
+    <string name="app_name01">呼叫转移号码:</string>
+    <string name="app_name010">本机号码:</string>
+    <string name="app_name02">请输入转移号码</string>
+    <string name="app_name020">请输入本机号码</string>
+    <string name="app_name03">转移类型</string>
+    <string name="app_name04">转移</string>
+    <string name="app_name05">取消</string>
+    <string name="app_name06">查看</string>
+    <string name="app_name07">号码为空，请输入!</string>
+
+    <string name="app_name08">号码输入有误，请重新输入!</string>
+    <string name="app_name09">查询中</string>
+    <string name="app_name10">取消中</string>
+    <string name="app_name11">4秒后启动！</string>
+
+    <string name="app_name12">顺心宝</string>
+    <string name="app_name13">电话呼叫转移</string>
+    <string-array name="change_types">
+        <item>始终进行呼叫转移</item>
+        <item>占线时进行呼叫转移</item>
+        <item>无应答时进行呼叫转移</item>
+        <item>无法接通时进行呼叫转移</item>
+    </string-array>
+</resources>
